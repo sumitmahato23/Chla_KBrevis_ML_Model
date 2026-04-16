@@ -1,0 +1,1 @@
+features_1 <- c("GN",    "R.GB",  "swir2", "B.NS",  "BG",    "b2sb3", "CVI",   "B.RN")
