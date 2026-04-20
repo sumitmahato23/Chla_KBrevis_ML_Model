@@ -12,7 +12,7 @@ if (validation == 1) {out <- "70%training"} else {out <- "30%validation"}
 
 #STEP1: Get Dataset
 # Retrieve dataset
-matchup_data_clean <- read.csv("C:\\Research\\dataKB\\matchup_data.csv")
+matchup_data_clean <- read.csv("C:\\Research\\data\\matchup_data_KB.csv")
 
 #STEP2: Create TRAIN and VALIDATION
 df <- data_partition(matchup_data_clean)
